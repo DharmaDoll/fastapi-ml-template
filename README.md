@@ -1,3 +1,7 @@
+### ドッカーでやる場合此方を参照
+https://zenn.dev/sh0nk/books/537bb028709ab9/viewer/5d287c
+
+
 # FastAPI ML Template
 ## Run Web API
 ### Local
